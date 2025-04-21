@@ -1,4 +1,4 @@
-# 🧳 Travel List 🧳
+# 🧳 Far Away 🧳
 
 A fun and simple React app to help you pack smarter and track your travel essentials. Just add items, mark them as packed, and track your progress!
 
