@@ -19,4 +19,4 @@ A fun and simple React app to help you pack smarter and track your travel essent
 
 ## 📷 Screenshot
 
-![Travel List UI]![localhost_3000_ (3)](https://github.com/user-attachments/assets/4fcc65ba-f19b-4fe9-8710-d7195c80f2e3)
+![localhost_3000_ (3)](https://github.com/user-attachments/assets/4fcc65ba-f19b-4fe9-8710-d7195c80f2e3)
